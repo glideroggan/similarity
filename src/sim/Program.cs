@@ -10,11 +10,6 @@ namespace Similarity
     {
         static async Task Main(string[] args)
         {
-            /* call the program with an argument
-            if the argument matches something in file with more than 90% accuracy, then add +1 to it
-            otherwise add it as another item
-             */
-
             if (args.Length < 2)
             {
                 // TODO:
