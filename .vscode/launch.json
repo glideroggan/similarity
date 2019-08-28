@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/src/bin/Debug/netcoreapp3.0/Similarity.dll",
+            "program": "${workspaceFolder}/src/sim/bin/Debug/netcoreapp3.0/Similarity.dll",
             "args": ["joacim"],
-            "cwd": "${workspaceFolder}/src",
+            "cwd": "${workspaceFolder}/src/sim",
             "console": "internalConsole",
             "stopAtEntry": false
         },
